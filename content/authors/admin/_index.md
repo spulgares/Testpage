@@ -3,14 +3,14 @@
 title: Testing name
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Testing
+last_name: Name
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations
 organizations:
