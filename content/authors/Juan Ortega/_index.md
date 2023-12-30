@@ -3,43 +3,37 @@
 title: Juan Ortega
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Juan
+last_name: Ortega
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Juan Ortega
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergrad Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Universidad de Concepción
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: As an undergraduate student, I am exploring the application of advanced data analytics and artificial intelligence techniques, with particular interest in their impact and usefulness in the educational field.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Advanced data analysis techniques
+  - Artificial intelligence
+  - Industry 4.0
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.Sc.
+      institution: Universidad de Concepción
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:juortega2019@udec.cl'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Ju-Ortega
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +67,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Juan Ortega, and I am studying Physical Sciences, with a focus on Physics Engineering. I am fascinated by how advanced data analysis and artificial intelligence can revolutionize the educational field. As a research assistant at IDEAlab, I have collaborated in analyzing and developing code for various projects, working closely with a talented team of data analysts. My approach is practical and innovation-oriented, always aiming to learn and apply new knowledge to drive positive changes in the field of education.
